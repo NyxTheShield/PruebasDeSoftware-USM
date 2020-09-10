@@ -2,7 +2,7 @@
 Repo personal para entrega de tareas
 
 # Entregable 1
-##Requisitos
+## Requisitos
 
 `- Python 3`
 
