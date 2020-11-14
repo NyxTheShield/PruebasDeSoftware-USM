@@ -8,7 +8,7 @@ Python 3 y las siguientes librerías:
 `pprint`
 `boto3`
 `requests`
-`PIL`
+`PIL (O pillow, si es necesario instalar por pip)`
 `io`
 `string`
 
